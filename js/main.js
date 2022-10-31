@@ -1,6 +1,6 @@
 const select_element = document.querySelector('.select');
 const btn_element = document.querySelector('.js_btn');
-const result_element = document.querySelector('.result');
+const result_element = document.querySelector('.container_text');
 const mensajePc_element = document.querySelector('.mensajepc');
 
 function validarGanador(razaJugador, pc) {
